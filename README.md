@@ -1,1 +1,3 @@
-# ios-gathrcolors
+# GathrColors
+
+A description of this package.
